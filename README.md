@@ -19,7 +19,7 @@ This project analyzes supermarket sales data to uncover valuable insights using 
      
      ![Power BI Dashboard Preview](powerbi_dashboard.png "Power BI Dashboard")
 
-## Why SQL and Power BI?
+## Why SQL, Power BI and Jupyter Notebook?
 - **SQL**:
   - Handles large datasets efficiently with operations like grouping, filtering, and ranking.
   - Provides a robust foundation for extracting actionable insights directly from raw data.
@@ -29,6 +29,14 @@ This project analyzes supermarket sales data to uncover valuable insights using 
   - Transforms SQL-derived data into visually compelling dashboards.
   - Enables stakeholders to interact with data through filters, slicers, and drill-down capabilities.
   - Bridges the gap between technical analysis and decision-making by making insights accessible.
+ 
+  -**Jupyter Notebook**:
+  - Used to connect SQL and Python.
+  - Enables efficient use of Data cleaning techniques.
+  - Utilizwed Data Visualization libraries such as pandas, seaborn and matplotlib.
+  
+
+
 
 ## Prerequisites
 - **SQL Database**: Install a compatible SQL database system (e.g., MySQL, SQL Server, PostgreSQL) to execute the queries in `SQLQuery1.sql`.
