@@ -17,7 +17,7 @@ This project analyzes supermarket sales data to uncover valuable insights using 
      - Regional and category-wise performance metrics.
      - Customer type analysis and product line contributions.
      
-     ![Power BI Dashboard Preview](images/powerbi_dashboard.png "Power BI Dashboard")
+     ![Power BI Dashboard Preview](powerbi_dashboard.png "Power BI Dashboard")
 
 ## Why SQL and Power BI?
 - **SQL**:
